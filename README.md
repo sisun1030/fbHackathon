@@ -3,4 +3,4 @@ fbHackathon
 
 Alex Min, Anson Ho, James Yeh, Sisun Lee
 
-Sisun. Forked repo first commit..
+Sisun. Forked repo first commit...
